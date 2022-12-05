@@ -1,0 +1,6534 @@
+ {
+        
+        "SellData":[
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 3,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 234,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 23424,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 6456,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 23,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 645,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2021",
+          "SellUnits": 78,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "May-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "May-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2021",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2021",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2021",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2021",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2021",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "May-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "May-2021",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "May-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "May-2021",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "May-2021",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "May-2021",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "May-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "May-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "May-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 3,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 234,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 23424,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 6456,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 23,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 645,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 78,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 3,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 234,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 23424,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 6456,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 23,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 645,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 78,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 3,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 234,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 23424,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 6456,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2022",
+          "SellUnits": 23,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "May-2022",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "May-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2022",
+          "SellUnits": 645,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "May-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "May-2022",
+          "SellUnits": 78,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "May-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "May-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "May-2022",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "May-2022",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "May-2022",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "May-2022",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "May-2022",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 3,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 234,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 23424,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 6456,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 2342,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 23,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 645,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 78,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 625,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 631,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 10,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 423,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 45346,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 876,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 679,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 98,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 979,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 7,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 435,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 75664,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 24,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 2,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 41,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 1,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 565,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 75,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 74,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 5424145,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 8,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 9,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 978,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 7856,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 32,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 4,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 42,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 34,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 345,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 0,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 3453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 453,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 45,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 35,
+          "Region": "APAC"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jan-2021",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jan-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Feb-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Feb-2021",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Mar-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Mar-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 7856,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 32,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 34,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 3453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Apr-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Apr-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "May-2021",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "May-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2021",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2021",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2021",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "May-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "May-2021",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "May-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "May-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "May-2021",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "May-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "May-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "May-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "May-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jun-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jun-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jul-2021",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jul-2021",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 7856,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 32,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 34,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Aug-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Aug-2021",
+          "SellUnits": 3453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Sep-2021",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Sep-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Oct-2021",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Oct-2021",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Nov-2021",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Nov-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 7856,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 32,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Dec-2021",
+          "SellUnits": 34,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Dec-2021",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 3453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jan-2022",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jan-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Feb-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Feb-2022",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Mar-2022",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Mar-2022",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 7856,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 32,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Apr-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Apr-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "May-2022",
+          "SellUnits": 34,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "May-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "May-2022",
+          "SellUnits": 3453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "May-2022",
+          "SellUnits": 453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "May-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "May-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "May-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "May-2022",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "May-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "May-2022",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "May-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "May-2022",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "May-2022",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "May-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jun-2022",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jun-2022",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Jul-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Jul-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Aug-2022",
+          "SellUnits": 7856,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Aug-2022",
+          "SellUnits": 32,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 34,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 345,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 3453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 453,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 3,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Sep-2022",
+          "SellUnits": 234,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Sep-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 23424,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 6456,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 2342,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 23,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 645,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 78,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Oct-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Oct-2022",
+          "SellUnits": 625,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 631,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 10,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 423,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 45346,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 876,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 679,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 98,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 979,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 7,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 45,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 435,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Nov-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Nov-2022",
+          "SellUnits": 75664,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 24,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "HDF0422",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 0,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "KDJ9034",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 2,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Television",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 41,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFHSK234",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 1,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "SDFSDJKF3490",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 42,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "Mobile",
+          "ModelNo": "ABC2910",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 565,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 1,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 4,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 2,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 75,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 3,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 74,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Electronics",
+          "Product": "headset",
+          "ModelNo": 5,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 5424145,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 6,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 35,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Bread",
+          "ModelNo": 23,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "AMG",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 8,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": 427,
+          "MonthYear": "Dec-2022",
+          "SellUnits": 9,
+          "Region": "EMEA"
+         },
+         {
+          "Family": "Grocery",
+          "Product": "Pulses",
+          "ModelNo": "714SJ",
+          "MonthYear": "Dec-2022",
+          "SellUnits": 978,
+          "Region": "EMEA"
+         }
+        ]
+       
+}
